@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="spin_the_bottle">Tung Tung Tung Tung Sahur</string>
+    <string name="spin_the_TungTungTung">Spin it!</string>
+    <string name="spin_the_tralalero">Tralalero Tralala</string>
+    <string name="spin_the_bombardino">Bombardiro Crocodilo</string>
+    <string name="spin_the_bombini">Bombombini Gusini</string>
+    <string name="spin_the_lil">Lirilì Larilà</string>
+    <string name="spin_the_bonekaambalabu">Boneca Ambalabu</string>
+    <string name="spin_the_brrpatapim">Brr Brr Patapim</string>
+    <string name="spin_the_cappuccino">Cappuccino Assassino</string>
+    <string name="spin_the_frigocamelo">Frigo Camelo</string>
+    <string name="random_button">隨機選瓶子</string>
+
+
+
+    <!--  Bottle selection options  -->
+    <string-array name="bottle_options">
+        <item>@string/spin_the_bottle</item>
+        <item>@string/spin_the_tralalero</item>
+        <item>@string/spin_the_bombardino</item>
+        <item>@string/spin_the_bombini</item>
+        <item>@string/spin_the_lil</item>
+        <item>@string/spin_the_bonekaambalabu</item>
+        <item>@string/spin_the_brrpatapim</item>
+        <item>@string/spin_the_cappuccino</item>
+        <item>@string/spin_the_frigocamelo</item>
+    </string-array>
+</resources>
